@@ -39,7 +39,7 @@
  
   --------------------------
 
-# 작업 분할 구조 (WBS)
+# 작업 분할 구조 (WBS) - 프로젝트 전체
 <img width="1200" alt="FigJam에 오신 것을 환영합니다 (4)" src="https://github.com/user-attachments/assets/661abf23-4002-4713-975a-094532bfaa65" /> 
 
 
