@@ -188,7 +188,7 @@
   - 데이터 유형: [정량, 정성]
 
 ## 3. 기술 스택
-- **데이터 수집**: Python, Selenium, API 활용
+- **데이터 수집**: playwright Selenium, API 활용
 - **분석**: Pandas, NumPy, Scikit-learn
 - **시각화**: Matplotlib, Seaborn, Plotly
 
