@@ -16,15 +16,10 @@
 ### 시스템 흐름도
 
 <p align="center">
-  <img width="1500" height="1800" alt="image" src="https://github.com/user-attachments/assets/888bbaff-6407-4710-b078-08c89d24edcd" />
+
+  <img width="1236" height="3224" alt="시스템 흐름도" src="https://github.com/user-attachments/assets/85648352-608f-4abc-ae6d-5e3940639af8" />
 </p>
 <br>
-
-### 시스템 구성도
-<p align="center">
-  
-</p>
-
 ## 2. 프로젝트 일정 
 
 | 작업 항목                  | 시작 날짜   | 종료 날짜   | 기간(일) |
