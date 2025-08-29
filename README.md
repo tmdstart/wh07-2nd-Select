@@ -22,7 +22,7 @@
 
 ### 시스템 구성도
 <p align="center">
-  <img width="3464" height="2356" alt="image" src="https://github.com/user-attachments/assets/767fa08b-e92c-4840-b97d-d4201ebaa19a" />
+  <img width="4584" height="1816" alt="image" src="https://github.com/user-attachments/assets/427e116f-9f39-4cd5-98ed-6323c2a130c1" />
 </p>
 
 ## 2. 프로젝트 일정 
@@ -174,9 +174,7 @@
 
 ## 1. 시스템 아키텍처
 - **구성 요소**:
-  - 데이터 수집 모듈
-  - 데이터 전처리 모듈
-  - 데이터 분석 및 시각화 모듈
+<img width="2400" height="2400" alt="image" src="https://github.com/user-attachments/assets/74108f9e-7b56-497f-aa28-1db505cc8935" />
 
 ## 2. 데이터 설계
 - **데이터 흐름**: 원천 데이터 → 전처리 → 분석 → 결과
