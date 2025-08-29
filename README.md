@@ -16,13 +16,13 @@
 ### 시스템 흐름도
 
 <p align="center">
-  <img width="2400" height="1800" alt="image" src="https://github.com/user-attachments/assets/50755991-8985-443f-a22d-e0ef3bbde366" />
+  <img width="1500" height="1800" alt="image" src="https://github.com/user-attachments/assets/888bbaff-6407-4710-b078-08c89d24edcd" />
 </p>
 <br>
 
 ### 시스템 구성도
 <p align="center">
-  <img width="1500" height="1800" alt="image" src="https://github.com/user-attachments/assets/888bbaff-6407-4710-b078-08c89d24edcd" />
+  
 </p>
 
 ## 2. 프로젝트 일정 
