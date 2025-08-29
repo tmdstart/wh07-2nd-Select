@@ -22,7 +22,7 @@
 
 ### 시스템 구성도
 <p align="center">
-  <img width="4584" height="1816" alt="image" src="https://github.com/user-attachments/assets/427e116f-9f39-4cd5-98ed-6323c2a130c1" />
+  <img width="2400" height="1800" alt="image" src="https://github.com/user-attachments/assets/888bbaff-6407-4710-b078-08c89d24edcd" />
 </p>
 
 ## 2. 프로젝트 일정 
